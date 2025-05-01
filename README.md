@@ -62,7 +62,9 @@ A limpeza foi realizada em Python (Google Colab), com os seguintes passos:
 
 ## 4. Visualização de Dados (Looker Studio)
 
+
 As visualizações foram criadas no **Looker Studio**, visando uma comunicação clara e interativa dos achados.
+**Link para o dashboard:** https://lookerstudio.google.com/reporting/17567be0-251b-4174-bd62-6591a05824b3
 
 **Gráficos incluídos**:
 - Proporção de Gênero dos Atletas
