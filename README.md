@@ -26,7 +26,7 @@ Analisar dados públicos sobre os Jogos Olímpicos, traçando o perfil dos atlet
 
 ## Documentação Completa
 
-Para mais detalhes, consulte: [documentacao_jogos.md](\.documentacao_jogos.md)
+Para mais detalhes, consulte: [documentacao_jogos.md](./documentacao_jogos.md)
 
 ##  Autora
 Vanessa Costa  
